@@ -1,2 +1,2 @@
-# COMP-315-Assignment
+# Comp315-Project
 This project is a Math game that was developed with the help of a fellow colleague. The aim was to help people improve their math skills. The game was meant to be educational and had an intended target market due to assignment topic restricions, however in general, we believe that Math is a necessity for everyone. Therefore we developed this game for the sole purpose to improve peoples quantitative prowess and did not restrict ages due to the obvious fact that Math is omnipotent. We learned a great deal from this assignment and overall it was a blast!
